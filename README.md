@@ -44,9 +44,9 @@
 
 # Credits
 - Team
-  - [Akash](https://github.com/Desinobita)   ``Creator``
-  - [HellBoy](https://github.com/HellBoy-OP) ``Dev``
-  - [RiZoeL](https://github.com/MrRizoel)    ``Dev``
+  - [Danger](@its_dangerr)   ``Creator``
+  - [Asad](@yourasad) ``Dev``
+ 
 
 - Libraries
   - [pytgcalls](https://github.com/pytgcalls/pytgcalls)
